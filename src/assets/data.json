@@ -1,0 +1,38 @@
+{
+  "projects": [
+    {
+      "title": "E-Commerce Website",
+      "description": "This is an E-Commerce Website that sells Nike Shoes. Name of this website is .sneakers.",
+      "url": "https://github.com/AtulSingh2003/E-CommerceWebsite" ,
+      "img": "https://cdn.pixabay.com/photo/2023/05/03/22/43/tennis-7968714_1280.png"
+    },
+    {
+      
+      "title": "Chat App",
+      "description": "Using this Chat App we can chat with each other using our email ids and this chat app uses Firebase database and Chakra UI.",
+      "url": "https://github.com/AtulSingh2003/ChatApp",
+      "img": "https://cdn.pixabay.com/photo/2018/11/13/21/43/instagram-3814056_1280.png"
+    },
+
+    {
+      
+      "title": "Daily Goal Tracker",
+      "description": "This App keep track of your daily goals. You can add the goals you want to achieve and remove them as you achieve them.",
+      "url": "https://github.com/AtulSingh2003/ToDoList",
+      "img": "https://cdn.pixabay.com/photo/2017/01/31/11/48/checklist-2023731_1280.png"
+    },
+    {
+      "title": "Para Generator",
+      "description": "This app generates random paragraph just like lorem in VS Code.",
+      "url": "https://github.com/AtulSingh2003/ParaGenerator",
+      "img": "https://cdn.pixabay.com/photo/2013/04/01/09/18/document-98477_1280.png"
+    },
+    {
+      
+      "title": "PORTFOLIO",
+      "description": "This is my personal portfolio made by using React. This portfolio contains my professional information such as my projects,etc.",
+      "img": "https://cdn.pixabay.com/photo/2017/10/31/00/23/portfolio-2903909_1280.png",
+      "url": "/"
+    }
+  ]
+}

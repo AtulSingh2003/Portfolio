@@ -1,0 +1,61 @@
+footer{
+    width: 100%;
+    min-height: 100px;
+    background-color: $color5;
+    color: $color4;
+    display: flex;
+    padding: 2rem 0;
+    padding-left: $p;
+
+    >div{
+        width: 40%;
+        border-right: 2px solid $color4;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        >h2{
+            margin-bottom: .5rem;
+        }
+    }
+    >aside{
+        padding-left: $p;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        >article{
+           
+            >a{
+                margin-right: 10px;
+                >svg{
+                    color: $color4;
+                    width: 20px;
+                    height: 20px;
+                    &:hover{
+                    color: $color3;
+                    }
+                }
+            }
+        }
+        >h2{
+            margin-bottom: .5rem;
+        }
+    }
+    >a{
+        background-color: $color4;
+        border-radius: 50%;
+        display: flex;
+        width: 30px;
+        height: 30px;
+        align-items: center;
+        justify-content: center;
+        margin-left: $p;
+
+        >svg{
+            color: crimson;
+
+        }
+    }
+}
+
